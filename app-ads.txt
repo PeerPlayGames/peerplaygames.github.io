@@ -34,3 +34,5 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 zmaticoo.com, 5135655, RESELLER
 tappx.com, ld4222f07, DIRECT, 9f375a07da0318ec
+vungle.com, 6744a594d02cf30011f2133b, DIRECT, c107d686becd2d77
+fyber.com,235785,DIRECT,1ad675c9de6b5176
