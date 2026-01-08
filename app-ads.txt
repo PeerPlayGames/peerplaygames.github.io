@@ -36,3 +36,10 @@ zmaticoo.com, 5135655, RESELLER
 tappx.com, ld4222f07, DIRECT, 9f375a07da0318ec
 vungle.com, 6744a594d02cf30011f2133b, DIRECT, c107d686becd2d77
 fyber.com,235785,DIRECT,1ad675c9de6b5176
+adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
+improvedigital.com, 2602, RESELLER
+indexexchange.com, 211341, RESELLER, 50b1c356f2c5c8fc
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
+sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
+thunder-monetize.com, 6343837988, RESELLER
+yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
